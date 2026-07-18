@@ -1,7 +1,7 @@
-<link rel="icon" href="dump/logo.png" type="image/png" />
+<link rel="icon" href="logo.png" type="image/png" />
 
 <div align="center">
-  <img src="dump/logo.png" alt="Dumb Coding logo" width="180" />
+  <img src="logo.png" alt="Dumb Coding logo" width="180" />
 
   <h1 style="margin: 0.4em 0 0.2em; font-family: 'Segoe UI', 'Trebuchet MS', sans-serif; letter-spacing: 0.25em; color: #7ee7ff; text-transform: uppercase;">DUMB CODING</h1>
 
